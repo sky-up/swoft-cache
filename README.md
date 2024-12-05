@@ -12,7 +12,7 @@ Swoft Cache Component
 - composer command
 
 ```bash
-composer require swoft/cache
+composer require swoft-fork/cache
 ```
 
 ## Resources
